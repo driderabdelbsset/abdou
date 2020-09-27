@@ -1,0 +1,239 @@
+body{
+    background-color: #bcdbdb;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive   
+       
+}
+
+h1{
+    font-family: 'Indie Flower', cursive;
+    color: #66BFBF;
+       
+    
+
+}
+h2{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: #66BFBF;
+}
+h3{
+    font-family: 'Open Sans Condensed', sans-serif;
+    color:#284546 ;
+}
+
+/**************************************MONTAINT*********************************/
+.c{
+    width: 450px;
+    padding-bottom: 0px;
+    position: relative;
+    top: 8px;
+    
+}
+.f{
+    width: 550px;
+    width: 550px;
+    position: relative;
+    top: 8px;
+    
+}    
+ /******************************************SEHAB*********************************/  
+.b{
+    position: absolute;
+    top:  200px;
+    right: 900x;
+    width: 20%;
+
+     
+        
+}
+
+.d{
+    position: relative;
+    left: 400px;
+    top:100px ;
+    width: 18%;
+}
+.a{
+    position: absolute;
+    top: 100px;
+    left:300px ;
+    width: 18%;
+
+}
+.e{
+    position: relative;
+    bottom:450px ;
+    left: 290px;
+    width: 20%;
+
+}
+
+
+/******************************div**************************************/
+
+.diva{
+    background-color: #bcdbdb;
+    padding-top:100px;
+    border-bottom-style: solid;
+    border-bottom-width: 15px;
+    border-bottom-color:#794425;
+
+    
+/***********************------------------***************************/    
+    
+}
+.middle-container{
+
+}
+
+.profile{
+
+}
+.img{
+
+}
+.skills{
+    width: 50%;
+    margin: auto;
+    text-align: left;
+    line-height: 2;
+    
+}
+.skill-row{
+
+}
+.img1{
+
+}
+.contact-me{
+
+}
+.btn{
+
+}
+/***************************-------------******************************/
+
+.bottom-container{
+    background-color: #518181;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+.footer-link1{
+
+}
+.footer-link2{
+
+}
+.footer-link3{
+
+}
+.btn {
+  background: #99cdf0;
+  background-image: -webkit-linear-gradient(top, #99cdf0, #478db8);
+  background-image: -moz-linear-gradient(top, #99cdf0, #478db8);
+  background-image: -ms-linear-gradient(top, #99cdf0, #478db8);
+  background-image: -o-linear-gradient(top, #99cdf0, #478db8);
+  background-image: linear-gradient(to bottom, #99cdf0, #478db8);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Courier New;
+  color: #000000;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3d9edb;
+  background-image: -webkit-linear-gradient(top, #3d9edb, #3498db);
+  background-image: -moz-linear-gradient(top, #3d9edb, #3498db);
+  background-image: -ms-linear-gradient(top, #3d9edb, #3498db);
+  background-image: -o-linear-gradient(top, #3d9edb, #3498db);
+  background-image: linear-gradient(to bottom, #3d9edb, #3498db);
+  text-decoration: none;
+}
+.footer-link1{
+    
+}
+.fb{
+    width: 3%;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+.fb:hover{
+        
+}
+.in{
+    width: 3%;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+.tw{
+    width: 3%;
+    margin-right: 3%;
+    margin-left: 3%;
+}
+/********************--------------------*****************/
+.airplane{
+    width: 12%;
+    position: absolute;
+    top: 12%;
+    left: 44%;
+}
+.airplane1{
+    width: 8%;
+    position: absolute;
+    top: 40%;
+    left:70%;
+}
+.airplane2{
+    width: 8%;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+}
+/**************-----------------------******************************/
+.my{
+    width: 20%;
+    padding-top: 3%;
+}
+.code{
+    width: 15%;
+    float: left;
+    padding-right: 5%;
+}
+.img1{
+    width: 25%;
+    float: right;
+    padding-right: 5%;    
+}
+/************************birds**********************************/
+.birds{
+    width: 3%;
+    position: absolute;
+    top: 70%;
+    left: 60%;
+}
+.birds1{
+    width: 2%;
+    position: absolute;
+    top: 65%;
+    left: 9%;  
+}
+.bird{
+    width: 2%;
+    position: absolute;
+    top: 70%;
+    left: 27%;  
+}
+.bird1{
+    width: 2%;
+    position: absolute;
+    top: 70%;
+    left: 87%;  
+}
+
+    
